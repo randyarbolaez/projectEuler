@@ -11,4 +11,4 @@ const multiplesOfThreeAndFive = () =>{
 	return sumOfMultiplesOfThreeAndFive
 }
 
-multiplesOfThreeAndFive()
+console.log(multiplesOfThreeAndFive())
